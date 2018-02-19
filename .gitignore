@@ -9,6 +9,5 @@ sites/*/files
 sites/*/private
 drupal/sites/default/files
 drupal/sites/default/privates
-drupal/modules/contrib
 drupal/libraries
 
