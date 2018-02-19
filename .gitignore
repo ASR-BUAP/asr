@@ -10,3 +10,6 @@ sites/*/private
 drupal/sites/default/files
 drupal/sites/default/privates
 drupal/modules/contrib
+
+drupal/themes/asr
+drupal/themes/bootstrap
