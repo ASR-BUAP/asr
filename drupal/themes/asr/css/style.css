@@ -9536,7 +9536,7 @@ p:last-child,
   width: 30%;
   margin-left: 6%;
 }
-@media only screen and (max-width: 479px) {
+@media only screen and (max-width: 768px) {
   .navbar-header {
     width: 85%;
   }
